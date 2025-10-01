@@ -138,12 +138,11 @@ AND
 **URL:** [https://www.sciencedirect.com/](https://www.sciencedirect.com/)
 
 ```text
-("cognitive architecture" OR "cognitive agent" OR "cognitive system" OR "cognitive robot")
+("cognitive agent" OR "cognitive robot")
 AND
-("human-robot collaboration" OR "human-agent collaboration" OR "human-robot interaction" 
-OR "social robot" OR "collaborative robot" OR "multiagent system" OR "multi-agent system")
+("human-robot interaction" OR "social robot" OR "multiagent system")
 AND
-("trust" OR "scaffolding" OR "cognitive load" OR "cognitive ergonomics" OR "social learning" OR "collaboration" OR "interaction")
+("trust" OR "scaffolding" OR "cognitive load")
 ```
 
 ```
