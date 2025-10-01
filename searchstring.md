@@ -38,13 +38,13 @@ AND
 **URL:** [https://www.scopus.com/](https://www.scopus.com/)
 
 ```text
-TITLE-ABS-KEY("cognitive architecture" OR "cognitive agent" OR "cognitive system" OR "cognitive robot")
+("cognitive architecture" OR "cognitive agent" OR "cognitive system" OR "cognitive robot")
 AND
-TITLE-ABS-KEY("human-robot collaboration" OR "human-agent collaboration" OR "human-robot interaction" 
+("human-robot collaboration" OR "human-agent collaboration" OR "human-robot interaction" 
 OR "social robot" OR "collaborative robot" OR "multiagent system" OR "multi-agent system")
 AND
-TITLE-ABS-KEY("trust" OR "scaffolding" OR "cognitive load" OR "cognitive ergonomics" OR "social learning" OR "collaboration" OR "interaction")
-```
+("trust" OR "scaffolding" OR "cognitive load" OR "cognitive ergonomics" OR "social learning" OR "collaboration" OR "interaction")
+````
 
 ---
 
